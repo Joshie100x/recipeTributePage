@@ -23,3 +23,7 @@ img {
 #topSection {
     margin: 30px;
 }
+
+#SquareImages {
+    border-radius: 30px;
+}
